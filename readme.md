@@ -6,4 +6,4 @@ An experimental speech recognition application aiming to start, control and end 
 
 MIT licensed
 
-Copyright (C) 2012 Tony Nordström, http://gorkadread.se
+2012 Tony Nordstrï¿½m, http://gorkadread.se
